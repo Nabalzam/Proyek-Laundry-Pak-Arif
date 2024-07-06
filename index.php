@@ -33,7 +33,7 @@
                         <?php
                         if (isset($_GET['pesan'])) {
                             if ($_GET['pesan'] == "gagal") {
-                                echo "<div class='alert alert-danger'>Login Gagal! Username dan Password Salah!</div>";
+                                echo "<div class='alert alert-danger'>Login Gagal! Username atau Password Salah!</div>";
                             } else if ($_GET['pesan'] == "logout") {
                                 echo "<div class='alert alert-info'>Anda Telah Berhasil Logout</div>";
                             } else if ($_GET['pesan'] == "belum_login") {

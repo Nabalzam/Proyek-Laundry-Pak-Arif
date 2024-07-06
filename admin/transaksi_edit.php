@@ -15,7 +15,7 @@ include '../koneksi.php';
 
             <div class="col-md-8 col-md-offset-2">
                 <a href="transaksi.php" class="btn btn-sm btn-info pull-right text-white">Kembali</a>
-                <br />
+                <br />                  
                 <br />
                 <?php
                 // menangkap id yang dikirim melalui url

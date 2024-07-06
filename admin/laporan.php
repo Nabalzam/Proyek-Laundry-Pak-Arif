@@ -52,7 +52,7 @@
             <div class="panel-body">
 
                 <a target="_blank" href="cetak_print.php?dari=<?php echo $dari; ?>&sampai=<?php echo $sampai; ?>"
-                    class="btn btn-sm btn-primary" class="glyphicon glyphicon-print"></i> CETAK</a>
+                    class="btn btn-sm btn-primary" class=""></i> CETAK</a>
 
                 <br />
                 <br />

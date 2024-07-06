@@ -74,8 +74,27 @@
                             </svg>Pengaturan
                         </a>
                         <ul class="dropdown-menu">
-                            <li><a class="dropdown-item" href="harga.php">Pengaturan Harga</a></li>
-                            <li><a class="dropdown-item" href="ganti_password.php">Ganti Password</a></li>
+                            <li><a class="dropdown-item " href="harga.php"><svg xmlns="http://www.w3.org/2000/svg"
+                                        width="16" height="16" fill="currentColor" class="bi bi-cash mb-1 me-1"
+                                        viewBox="0 0 16 16">
+                                        <path d="M8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4" />
+                                        <path
+                                            d="M0 4a1 1 0 0 1 1-1h14a1 1 0 0 1 1 1v8a1 1 0 0 1-1 1H1a1 1 0 0 1-1-1zm3 0a2 2 0 0 1-2 2v4a2 2 0 0 1 2 2h10a2 2 0 0 1 2-2V6a2 2 0 0 1-2-2z" />
+                                    </svg>Pengaturan Harga</a></li>
+                            <li><a class="dropdown-item" href="ganti_password.php"><svg
+                                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                        class="bi bi-shield-shaded mb-1 me-1" viewBox="0 0 16 16">
+                                        <path fill-rule="evenodd"
+                                            d="M8 14.933a1 1 0 0 0 .1-.025q.114-.034.294-.118c.24-.113.547-.29.893-.533a10.7 10.7 0 0 0 2.287-2.233c1.527-1.997 2.807-5.031 2.253-9.188a.48.48 0 0 0-.328-.39c-.651-.213-1.75-.56-2.837-.855C9.552 1.29 8.531 1.067 8 1.067zM5.072.56C6.157.265 7.31 0 8 0s1.843.265 2.928.56c1.11.3 2.229.655 2.887.87a1.54 1.54 0 0 1 1.044 1.262c.596 4.477-.787 7.795-2.465 9.99a11.8 11.8 0 0 1-2.517 2.453 7 7 0 0 1-1.048.625c-.28.132-.581.24-.829.24s-.548-.108-.829-.24a7 7 0 0 1-1.048-.625 11.8 11.8 0 0 1-2.517-2.453C1.928 10.487.545 7.169 1.141 2.692A1.54 1.54 0 0 1 2.185 1.43 63 63 0 0 1 5.072.56" />
+                                    </svg>Ganti Password</a></li>
+                            <li><a class="dropdown-item" href="admin.php"><svg
+                                        xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                                        class="bi bi-person-fill-add mb-1 me-1" viewBox="0 0 16 16">
+                                        <path
+                                            d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.5-5v1h1a.5.5 0 0 1 0 1h-1v1a.5.5 0 0 1-1 0v-1h-1a.5.5 0 0 1 0-1h1v-1a.5.5 0 0 1 1 0m-2-6a3 3 0 1 1-6 0 3 3 0 0 1 6 0" />
+                                        <path
+                                            d="M2 13c0 1 1 1 1 1h5.256A4.5 4.5 0 0 1 8 12.5a4.5 4.5 0 0 1 1.544-3.393Q8.844 9.002 8 9c-5 0-6 3-6 4" />
+                                    </svg>Admin</a></li>
                         </ul>
                     </li>
                     <li class="nav-item ">

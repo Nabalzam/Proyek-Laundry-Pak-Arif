@@ -12,7 +12,7 @@ $alamat = $_POST['pelanggan_alamat'];
 mysqli_query($connect, "UPDATE pelanggan SET pelanggan_nama='$nama', pelanggan_hp='$hp', pelanggan_alamat='$alamat' WHERE pelanggan_id=$id");
 
 // mengalihkan halaman kembali ke halaman pelanggan
-header("location:pelanggan.php");  
+header("location:pelanggan.php");
 
 
 ?>
